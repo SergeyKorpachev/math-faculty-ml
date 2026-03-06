@@ -19,7 +19,7 @@
 | Номер дз  | Дедлайн          | Ссылка                                                                                                           |
 | --------- | ---------------- | ---------------------------------------------------------------------------------------------------------------- |
 | 1         | 22.02.2026 23:59 | https://github.com/SergeyKorpachev/math-faculty-ml/blob/main/2026/homework/homework01/homework01_knn_linreg.ipynb       |
-| 2         | ??.??.2026 23:59 | ??? |
+| 2         | 22.03.2026 23:59 | https://github.com/SergeyKorpachev/math-faculty-ml/blob/main/2026/homework/homework02/homework02_logreg_svm_texts.ipynb |
 | 3         | ??.??.2026 23:59 | ???      |
 | 4         | ??.??.2026 23:59 | ???         |
 
