@@ -21,7 +21,7 @@
 | 1         | 22.02.2026 23:59 | https://github.com/SergeyKorpachev/math-faculty-ml/blob/main/2026/homework/homework01/homework01_knn_linreg.ipynb       |
 | 2         | 29.03.2026 23:59 | https://github.com/SergeyKorpachev/math-faculty-ml/blob/main/2026/homework/homework02/homework02_logreg_svm_texts.ipynb |
 | 3         | 26.04.2026 23:59 | https://github.com/SergeyKorpachev/math-faculty-ml/blob/main/2026/homework/homework03/homework03_trees_rf.ipynb      |
-| 4         | ??.??.2026 23:59 | ???         |
+| 4         | 10.05.2026 23:59 | https://github.com/SergeyKorpachev/math-faculty-ml/blob/main/2026/homework/homework04/homework04_boosting.ipynb         |
 
 
 ## Формула оценивания
