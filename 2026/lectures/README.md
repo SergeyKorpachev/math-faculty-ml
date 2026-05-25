@@ -2,4 +2,5 @@
 
 ## Оригиналы:
 Лекция 13: https://github.com/hse-ds/ml-hse-nes/blob/main/2025/lectures/lecture13-nn.pdf
+
 Лекция 14: https://github.com/hse-ds/ml-hse-nes/blob/main/2024/lectures/lecture13-cnn.pdf
